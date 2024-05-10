@@ -3,6 +3,7 @@
 <hr>
 
 - 🔭 Professor de Informática para Internet e Desenvolvimento de Sistemas na rede SENAI-PE / SESI-PE.<br>
+- 🎓 Estudando Licenciatura em Matemática na UniBF Faculdade.<br>
 - ❤ Sou apaixonado por tecnologia, panificação artesanal, teologia e minha família.
 
 
