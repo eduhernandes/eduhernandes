@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <hr>
 
-- 🔭 Professor de Informática para Internet e Desenvolvimento de Sistemas no SENAI-PE / SESI-PE.<br>
+- 🔭 Professor de Informática para Internet e Desenvolvimento de Sistemas na rede SENAI-PE / SESI-PE.<br>
 - ❤ Sou apaixonado por tecnologia, panificação artesanal, teologia e minha família.
 
 
