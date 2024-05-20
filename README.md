@@ -1,16 +1,13 @@
-### Olá, eu sou Eduardo Hernandes 👋
+# Olá, eu sou Eduardo Hernandes 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-<hr>
+
 
 - 🔭 Professor de Informática para Internet e Desenvolvimento de Sistemas na rede SENAI-PE / SESI-PE.<br>
 - 🎓 Estudando Licenciatura em Matemática na UniBF Faculdade.<br>
 - ❤ Sou apaixonado por tecnologia, panificação artesanal, teologia e minha família.
 
 
-### 🏆 Tecnologias
-
-##
-
+## 🏆 Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,10 +18,7 @@
 
 
   
-### 🌎 Onde me encontrar
-  
-##
-
+## 🌎 Onde me encontrar
 <p align="left">
   <a href="mailto:prof.eduardo.hernandes@gamil.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
