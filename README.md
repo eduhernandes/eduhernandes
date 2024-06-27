@@ -3,9 +3,12 @@
 
 
 - 🔭 Professor de Informática para Internet e Desenvolvimento de Sistemas na rede SENAI-PE / SESI-PE.<br>
-- 🎓 Estudando Licenciatura em Matemática na UniBF Faculdade.<br>
+- 🎓 Tecnólogo em Sistemas para Internet na UniFAAT.<br>
+- 🎓 Licenciando Matemática na UniBF Faculdade.<br>
 - ❤ Sou apaixonado por tecnologia, panificação artesanal, teologia e minha família.
+- 🏃🏻 Corredor amador.
 
+[![eduhrnandes's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduhernandes&show_icons=true&theme=dracula)](https://github.com/eduhernandes/github-readme-stats )
 
 ## 🏆 Tecnologias
 <div style="display: inline_block"><br>
