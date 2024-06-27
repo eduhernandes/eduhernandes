@@ -8,7 +8,7 @@
 - ❤ Sou apaixonado por tecnologia, panificação artesanal, teologia e minha família.
 - 🏃🏻 Corredor amador.
 
-[![eduhrnandes's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduhernandes&show_icons=true&theme=dracula)
+![eduhrnandes's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduhernandes&show_icons=true&theme=dracula)
 
 ## 🏆 Tecnologias
 <div style="display: inline_block"><br>
