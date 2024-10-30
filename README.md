@@ -4,12 +4,17 @@
 
 - 🔭 Professor de Informática para Internet e Desenvolvimento de Sistemas na rede SENAI-PE / SESI-PE.<br>
 - 🎓 Tecnólogo em Sistemas para Internet na UNIFAAT.<br>
-- 🎓 Especialista Latu-Sensu em Tecnologia e InovaçõesWeb pela UNIFAVENI. <br>
+- 🎓 Especialista Lato-Sensu em Tecnologia e InovaçõesWeb pela UNIFAVENI. <br>
 - 🎓 Licenciando Matemática na UniBF Faculdade.<br>
 - ❤ Sou apaixonado por tecnologia, panificação artesanal, teologia e minha família.
 - 🏃🏻 Corredor amador.
 
-![eduhrnandes's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduhernandes&show_icons=true&theme=dracula)
+## Github Stats
+![eduhernandes's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduhernandes&show_icons=true&theme=dracula)
+
+
+## Top linguagens mais utilizadas
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eduhernandes&show_icons=true&theme=dracula)
 
 ## 🏆 Tecnologias
 <div style="display: inline_block"><br>
@@ -33,18 +38,3 @@
   <a href="https://instagram.com/eduardo.hernandes/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
-
-<!--
-**eduhernandes/eduhernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
