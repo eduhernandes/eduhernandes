@@ -37,4 +37,6 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="https://instagram.com/eduardo.hernandes/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-</p>
+  <a href="https://www.duolingo.com/profile/EduHernandes" title="Duolingo">
+  <img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=flat-square&logo=Duolingo&logoColor=white" alt="Duolingo"/></a>
+ </p>
