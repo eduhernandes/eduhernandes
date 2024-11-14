@@ -9,6 +9,8 @@
 - ❤ Sou apaixonado por tecnologia, panificação artesanal, teologia e minha família.
 - 🏃🏻 Corredor amador.
 
+<img src="quero-cafe.gif">
+
 ## Github Stats
 ![eduhernandes's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduhernandes&show_icons=true&theme=dracula)
 
