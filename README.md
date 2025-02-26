@@ -3,9 +3,9 @@
 
 
 - 🔭 Professor de Informática para Internet e Desenvolvimento de Sistemas na rede SENAI-PE / SESI-PE.<br>
-- 🎓 Tecnólogo em Sistemas para Internet na UNIFAAT.<br>
-- 🎓 Especialista Lato-Sensu em Tecnologia e InovaçõesWeb pela UNIFAVENI. <br>
-- 🎓 Licenciando Matemática na UniBF Faculdade.<br>
+- 🎓 Tecnólogo em Sistemas para Internet na UNIFAAT (2013).<br>
+- 🎓 Especialista Lato-Sensu em Tecnologia e InovaçõesWeb pela UNIFAVENI (2024).<br>
+- 🎓 Licenciado em Matemática na UniBF Faculdade (2025).<br>
 - ❤ Sou apaixonado por tecnologia, panificação artesanal, teologia e minha família.
 - 🏃🏻 Corredor amador.
 
