@@ -2,12 +2,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
-- 🔭 Professor de Informática para Internet e Desenvolvimento de Sistemas na rede SENAI-PE / SESI-PE.<br>
-- 🎓 Tecnólogo em Sistemas para Internet na UNIFAAT (2013).<br>
-- 🎓 Especialista Lato-Sensu em Tecnologia e InovaçõesWeb pela UNIFAVENI (2024).<br>
-- 🎓 Licenciado em Matemática na UniBF Faculdade (2025).<br>
+- 🔭 Professor de Informática para Internet e Desenvolvimento de Sistemas na rede SENAI-PE / SESI-PE.
+- 🔭 Professor Universitário na Uninassau.
+- 🎓 Tecnólogo em Sistemas para Internet (UNIFAAT-2013).
+- 🎓 Especialista Lato-Sensu em Tecnologia e Inovações Web (UNIFAVENI-2024).
+- 🎓 Licenciado em Matemática (UniBF-2025).
 - ❤ Sou apaixonado por tecnologia, panificação artesanal, teologia e minha família.
 - 🏃🏻 Corredor amador.
+- <img width="16" height="16" alt="corinthians" src="https://github.com/user-attachments/assets/dfb6ad98-0bc2-4f05-aa35-79ca25d30789" /> Vai Curintia!!!!
+
 
 <img src="quero-cafe.gif">
 
@@ -42,3 +45,5 @@
   <a href="https://www.duolingo.com/profile/EduHernandes" title="Duolingo">
   <img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=flat-square&logo=Duolingo&logoColor=white" alt="Duolingo"/></a>
  </p>
+
+ <img width="128" height="128" alt="corinthians" src="https://github.com/user-attachments/assets/dfb6ad98-0bc2-4f05-aa35-79ca25d30789" />
