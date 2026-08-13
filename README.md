@@ -15,11 +15,10 @@
 <img src="quero-cafe.gif">
 
 ## Github Stats
-![eduhernandes's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduhernandes&show_icons=true&theme=dracula)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=eduhernandes&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=eduhernandes&show_icons=true&include_all_commits=true&theme=dracula)
 
 ## Top linguagens mais utilizadas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eduhernandes&show_icons=true&theme=dracula)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=eduhernandes&langs_count=4&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=eduhernandes&langs_count=4&theme=dracula)
 
 ## 🏆 Tecnologias
 <div style="display: inline_block"><br>
