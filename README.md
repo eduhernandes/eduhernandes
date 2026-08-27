@@ -20,7 +20,14 @@
 ## Top linguagens mais utilizadas
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=eduhernandes&langs_count=4&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=eduhernandes&langs_count=4&theme=dracula)
 
+
+## GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=eduhernandes&theme=dracula&timezone=-3&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+
+## GitHub Streak 2
+
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 
 ## 🏆 Tecnologias
