@@ -49,4 +49,4 @@
  </p>
 
  <img width="128" height="128" alt="corinthians" src="https://github.com/user-attachments/assets/dfb6ad98-0bc2-4f05-aa35-79ca25d30789" />
-Atualizacao 
+
