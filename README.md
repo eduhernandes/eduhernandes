@@ -21,7 +21,9 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=eduhernandes&langs_count=4&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=eduhernandes&langs_count=4&theme=dracula)
 
 ## GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=eduhernandes&theme=dracula&locale=pt_BR&timezone=-3)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-six-ashen-66.vercel.app?user=eduhernandes&theme=dracula&locale=pt_BR)](https://git.io/streak-stats)
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=eduhernandes&theme=dracula&locale=pt_BR&timezone=-3)](https://git.io/streak-stats) -->
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eduhernandes&theme=dracula&locale=pt_BR&timezone=-3" alt="GitHub Streak" /></a> -->
 <!-- <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a> -->
 
@@ -51,5 +53,4 @@
  </p>
 
  <img width="128" height="128" alt="corinthians" src="https://github.com/user-attachments/assets/dfb6ad98-0bc2-4f05-aa35-79ca25d30789" />
- atu
-
+ 
