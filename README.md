@@ -21,9 +21,9 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=eduhernandes&langs_count=4&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=eduhernandes&langs_count=4&theme=dracula)
 
 ## GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=eduhernandes&theme=dracula&locale=pt_BR&timezone=-3)](https://git.io/streak-stats)
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eduhernandes&theme=dracula&locale=pt_BR&timezone=-3" alt="GitHub Streak" /></a> -->
 <!-- <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a> -->
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eduhernandes&theme=dracula&locale=pt_BR&timezone=-3" alt="GitHub Streak" /></a>
 
 ## 🏆 Tecnologias
 <div style="display: inline_block"><br>
